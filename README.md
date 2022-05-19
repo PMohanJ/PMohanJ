@@ -1,7 +1,7 @@
 ### Hello👋, I'm Mohan!
-A programmer interested to develop stuff.<br>
-I'm into backend and ML technologies. <br>
-Just gotten to know about Open Source. <br>
+A programmer interested in developing solutions.<br>
+I'm a student inclined towards backend. <br>
+Started learning DevOps field, & ML enthusiast. <br>
 Looking forward to collaborate and contribute! 
 <br>
 
