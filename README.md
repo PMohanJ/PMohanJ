@@ -1,7 +1,6 @@
 ### Hello👋, I'm Mohan!
-A programmer interested in developing solutions.<br>
-I'm a student inclined towards backend. <br>
-Started learning DevOps field, & ML enthusiast. <br>
+A programmer interested in developing solutions<br>
+Primarily interested in backend and DevOps <br/>
 Looking forward to collaborate and contribute! 
 <br>
 
@@ -19,4 +18,3 @@ Looking forward to collaborate and contribute!
   <img align = "left" width = "20px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<!-- Gotta add more stuff here by end of may! -->
